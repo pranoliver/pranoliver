@@ -1,4 +1,4 @@
-## 🏆 Projects
+## 🚀 Projects
 
 <table width="100%">
   <tr>
