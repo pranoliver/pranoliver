@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
 ## 🏆 Certifications
 
 <table width="100%">
