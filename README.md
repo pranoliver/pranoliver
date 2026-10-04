@@ -76,11 +76,14 @@
     <td width="25%" valign="top">
       <b>Name</b>
     </td>
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
     	<b>Description</b>
     </td>
     <td width="25%" align="right">
       <b>Tech Stack</b>
+    </td>
+	<td width="10%" align="right">
+      <b>Repo</b>
     </td>
   </tr>
   <tr>
@@ -112,6 +115,9 @@
 		<img src="https://img.shields.io/badge/react-current-18+?logo=react&logoColor=white" /><br/>
 		<img src="https://img.shields.io/badge/typescript-current-18+?logo=typescript&logoColor=white" /><br/>
     </td>
+	<td>
+		<img src="https://img.shields.io/badge/github-public-blue?logo=github" />
+	</td>
   </tr>
   <tr>
     <td width="25%" valign="top">
@@ -124,6 +130,9 @@
       <img src="https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Built with Streamlit"/><br/>
       <img src="https://img.shields.io/badge/Powered%20by-Ollama-0A66C2?style=for-the-badge&logo=ollama&logoColor=white" alt="Powered by Ollama"/><br/>
     </td>
+	<td>
+		<img src="https://img.shields.io/badge/github-private-red?logo=github&logoColor=white" />
+	</td>
   </tr>
   <tr>
     <td width="25%" valign="top">
@@ -146,6 +155,9 @@
         <img src="https://img.shields.io/badge/JavaScript-ES2025-F7DF1E?logo=javascript&logoColor=white" />
         <img src="https://img.shields.io/badge/Chart.js-4.2-FF6384?logo=chartdotjs&logoColor=white" />
     </td>
+	<td>
+		<img src="https://img.shields.io/badge/github-private-red?logo=github&logoColor=white" />
+	</td>	  
   </tr>
   <tr>
     <td width="25%" valign="top">
@@ -162,6 +174,9 @@
 		<img src="https://img.shields.io/badge/Google_Fonts-Outfit-%234285F4.svg?style=flat&logo=Google&logoColor=white" />
 		<img src="https://img.shields.io/badge/SharedPreferences-Local-%233DDC84.svg?style=flat&logo=Android&logoColor=white" />
     </td>
+	<td>
+		<img src="https://img.shields.io/badge/github-private-red?logo=github&logoColor=white" />
+	</td>
   </tr>
   <tr>
     <td width="25%" valign="top">
@@ -177,5 +192,8 @@
       <img src="https://img.shields.io/badge/JavaScript-ES2025-F7DF1E?logo=javascript&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS-3-%2338B2AC.svg?logo=css&logoColor=white" />
     </td>
+	<td>
+		<img src="https://img.shields.io/badge/github-private-red?logo=github&logoColor=white" />
+	</td>
   </tr>
 </table>
