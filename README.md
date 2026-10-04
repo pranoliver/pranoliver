@@ -109,8 +109,8 @@
         <img src="https://img.shields.io/badge/Tailwind%20CSS-4.2-%2338B2AC.svg?logo=tailwind-css&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/JavaScript-ES2025-F7DF1E?logo=javascript&logoColor=white" /><br/>
 		<img src="https://img.shields.io/badge/node-current-18+?logo=node.js&logoColor=white" /><br/>
-		<img src="https://img.shields.io/badge/react-current-18+?logo=node.js&logoColor=white" /><br/>
-		<img src="https://img.shields.io/badge/typescript-current-18+?logo=node.js&logoColor=white" /><br/><br/>
+		<img src="https://img.shields.io/badge/react-current-18+?logo=react&logoColor=white" /><br/>
+		<img src="https://img.shields.io/badge/typescript-current-18+?logo=typescript&logoColor=white" /><br/><br/>
     </td>
   </tr>
   <tr>
