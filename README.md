@@ -85,7 +85,7 @@
   </tr>
   <tr>
     <td width="25%" valign="top">
-      <img src="https://img.shields.io/badge/Technical-Tutorials-blue?logo=python" alt="Verify Badge">
+      <a href="https://github.com/pranoliver/teachings"><img src="https://img.shields.io/badge/Technical-Tutorials-blue?logo=python" alt="Verify Badge"></a>
     </td>
     <td width="50%" valign="top">
 		A collection of beginner-friendly interactive technology tutorials.<br/><br/>
