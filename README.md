@@ -102,8 +102,12 @@
     	11. 🚀 DevOps CI/CD<br/><br/>
     </td>
     <td width="25%" align="right">
-      <img src="https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Built with Streamlit"/><br/>
-      <img src="https://img.shields.io/badge/Powered%20by-Ollama-0A66C2?style=for-the-badge&logo=ollama&logoColor=white" alt="Powered by Ollama"/><br/>
+      <img src="https://img.shields.io/badge/Python-3.12.2-3776AB?logo=python&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Docker-29.2.1-2496ED?logo=docker&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Postgres-15-%23316192.svg?logo=postgresql&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/HTML-5-%23E34F26.svg?logo=html5&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-4.2-%2338B2AC.svg?logo=tailwind-css&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/JavaScript-ES2025-F7DF1E?logo=javascript&logoColor=white" /><br/>
     </td>
   </tr>
   <tr>
