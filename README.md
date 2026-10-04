@@ -73,16 +73,16 @@
 
 <table width="100%">
   <tr>
-    <td width="20%" valign="top">
+    <td width="15%" valign="top">
       <b>Name</b>
     </td>
-    <td width="40%" valign="top">
+    <td width="50%" valign="top">
     	<b>Description</b>
     </td>
     <td width="25%" align="right">
       <b>Tech Stack</b>
     </td>
-	<td width="20%" align="right">
+	<td width="25%" align="right">
       <b>Repo</b>
     </td>
   </tr>
