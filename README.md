@@ -85,6 +85,29 @@
   </tr>
   <tr>
     <td width="25%" valign="top">
+      <img src="https://img.shields.io/badge/Technical-Tutorials-blue?logo=python" alt="Verify Badge">
+    </td>
+    <td width="50%" valign="top">
+		A collection of beginner-friendly interactive technology tutorials.<br/><br/>
+    	1. 🐧 Linux Command Line<br/>
+    	2. 🌐 HTML & CSS Fundamentals<br/>
+    	3. ⚡ JavaScript Basics<br/>
+    	4. 🐍 Python Fundamentals<br/>
+    	5. 🟢 Node.js & Express<br/>
+    	6. 🐙 Git & GitHub<br/>
+    	7. 🐘 SQL & Databases<br/>
+    	8. 🐳 Docker<br/>
+    	9. ⚛️ React<br/>
+    	10. 🔷 TypeScript<br/>
+    	11. 🚀 DevOps CI/CD<br/><br/>
+    </td>
+    <td width="25%" align="right">
+      <img src="https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Built with Streamlit"/><br/>
+      <img src="https://img.shields.io/badge/Powered%20by-Ollama-0A66C2?style=for-the-badge&logo=ollama&logoColor=white" alt="Powered by Ollama"/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
       <img src="https://img.shields.io/badge/VaultIQ-blue?logo=streamlit" alt="Verify Badge">
     </td>
     <td width="50%" valign="top">
