@@ -76,7 +76,7 @@
     <td width="15%" valign="top">
       <b>Name</b>
     </td>
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
     	<b>Description</b>
     </td>
     <td width="25%" align="right">
@@ -90,7 +90,7 @@
     <td width="25%" valign="top">
       <a href="https://github.com/pranoliver/teachings"><img src="https://img.shields.io/badge/Technical-Tutorials-blue?logo=python" alt="Verify Badge"></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
 		A collection of beginner-friendly interactive technology tutorials.<br/><br/>
     	1. 🐧 Linux Command Line<br/>
     	2. 🌐 HTML & CSS Fundamentals<br/>
@@ -116,7 +116,7 @@
 		<img src="https://img.shields.io/badge/typescript-current-18+?logo=typescript&logoColor=white" /><br/>
     </td>
 	<td>
-		<img src="https://img.shields.io/badge/github-public-blue?logo=github" />
+		<img src="https://img.shields.io/badge/PUBLIC-GREEN" />
 	</td>
   </tr>
   <tr>
