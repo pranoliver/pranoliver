@@ -86,36 +86,46 @@
   <tr>
     <td width="65%" valign="top">
       <a href="https://github.com/pranoliver/tutorials"><img src="https://img.shields.io/badge/Technical-Tutorials-blue?logo=python" alt="Technical Tutorials"></a><br/><br/>
-		A collection of beginner-friendly interactive technology tutorials.<br/><br/>
+		A collection of 43 beginner-friendly interactive technology tutorials.<br/><br/>
     	1. 🐧 Linux Command Line<br/>
     	2. 🌐 HTML & CSS Fundamentals<br/>
     	3. ♿ Web Accessibility<br/>
     	4. ⚡ JavaScript Basics<br/>
-    	5. 🐍 Python Fundamentals<br/>
-    	6. 🐙 Git & GitHub<br/>
-    	7. 📋 Jira<br/>
-    	8. 🟢 Node.js & Express<br/>
-    	9. 🌐 WebSockets & Real-Time Apps<br/>
-    	10. 🐘 SQL & Databases<br/>
-    	11. ◈ GraphQL APIs<br/>
-    	12. 🕸️ Graph Databases with Neo4j<br/>
-    	13. 🟥 Redis & Caching<br/>
-    	14. ⚛️ React: Modern Frontend<br/>
-    	15. 🧠 State Management<br/>
-    	16. 🔷 TypeScript<br/>
-    	17. 🐳 Docker: Containers to Production<br/>
-    	18. ☸️ Kubernetes<br/>
-    	19. ☁️ Cloud Providers<br/>
-    	20. 📊 Monitoring & Observability<br/>
-    	21. 🏗️ Terraform: Infrastructure as Code<br/>
-    	22. 🚀 DevOps CI/CD<br/>
-    	23. 🔶 Jenkins<br/>
-    	24. ⚙️ Microservices Basics<br/>
-    	25. 🍃 MongoDB & NoSQL<br/>
-    	26. ⚡ Database Optimization<br/>
-    	27. ▲ Next.js Full-Stack<br/>
-    	28. 🛡️ OWASP Top 10<br/>
-    	29. 🔐 Secure Authentication<br/><br/>
+    	5. 🔵 C Language<br/>
+    	6. ⚪ C++ Language<br/>
+    	7. 🐍 Python Fundamentals<br/>
+    	8. 🦀 Rust Language<br/>
+    	9. 🐹 Go Language<br/>
+    	10. 🐙 Git & GitHub<br/>
+    	11. 📋 Jira<br/>
+    	12. 🟢 Node.js & Express<br/>
+    	13. 🌐 WebSockets & Real-Time Apps<br/>
+    	14. 🐘 SQL & Databases<br/>
+    	15. ◈ GraphQL APIs<br/>
+    	16. 🕸️ Graph Databases with Neo4j<br/>
+    	17. 🟥 Redis & Caching<br/>
+    	18. ⚛️ React: Modern Frontend<br/>
+    	19. 🧠 State Management<br/>
+    	20. 🔷 TypeScript<br/>
+    	21. 🐳 Docker: Containers to Production<br/>
+    	22. ☸️ Kubernetes<br/>
+    	23. ☁️ Cloud Providers<br/>
+    	24. 📊 Monitoring & Observability<br/>
+    	25. 🏗️ Terraform: Infrastructure as Code<br/>
+    	26. 🚀 DevOps CI/CD<br/>
+    	27. 🔶 Jenkins<br/>
+    	28. ⚙️ Microservices Basics<br/>
+    	29. 🍃 MongoDB & NoSQL<br/>
+    	30. ⚡ Database Optimization<br/>
+    	31. ▲ Next.js Full-Stack<br/>
+    	32. 🛡️ OWASP Top 10<br/>
+    	33. 🔐 Secure Authentication<br/><br/>
+    	<b>🗄️ Data Engineering Track</b><br/><br/>
+    	DE-1. 🏥 Data Engineering Foundations<br/>
+    	DE-2. 📊 Data Storage & Warehouses<br/>
+    	DE-3. 🔄 Data Pipelines & Orchestration<br/>
+    	DE-4. ⚡ Streaming Data & Cloud<br/>
+    	DE-5. 🛡️ DataOps & Governance<br/><br/>
     	<b>🤖 AI / ML / LLM Track</b><br/><br/>
     	AI-1. 🔥 Machine Learning with Python<br/>
     	AI-2. 🤖 Large Language Models (LLMs)<br/>
@@ -130,6 +140,10 @@
         <img src="https://img.shields.io/badge/TypeScript-5.0+-3178C6?logo=typescript&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-18+-green?logo=node.js&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rust-CE412B?logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" /><br/>
